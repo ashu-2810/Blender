@@ -1,2 +1,2 @@
 # Blender
-Learn Blender
+Learning Blender
